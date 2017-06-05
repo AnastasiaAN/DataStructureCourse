@@ -1,0 +1,5 @@
+host1 2 8
+host2 4 16
+host3 8 32
+host4 16 128
+host5 10 20
